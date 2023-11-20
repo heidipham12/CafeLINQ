@@ -1,0 +1,11 @@
+D:\LTNet\CafeLINQ\CafeLINQ\bin\Debug\CafeLINQ.exe.config
+D:\LTNet\CafeLINQ\CafeLINQ\bin\Debug\CafeLINQ.exe
+D:\LTNet\CafeLINQ\CafeLINQ\bin\Debug\CafeLINQ.pdb
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.csproj.AssemblyReference.cache
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.csproj.SuggestedBindingRedirects.cache
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.Properties.Resources.resources
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.csproj.GenerateResource.cache
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.csproj.CoreCompileInputs.cache
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.exe
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.pdb
+D:\LTNet\CafeLINQ\CafeLINQ\obj\Debug\CafeLINQ.Form1.resources

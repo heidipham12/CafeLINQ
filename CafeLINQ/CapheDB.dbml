@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CapheDB" Class="CapheDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-BD2VFN78\SQLSERVER;Initial Catalog=CapheDB;Integrated Security=True" SettingsObjectName="CafeLINQ.Properties.Settings" SettingsPropertyName="CapheDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Caphe" Member="Caphes">
+    <Type Name="Caphe">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="MFG" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EXP" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Price" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ImageName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

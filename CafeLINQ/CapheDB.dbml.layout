@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CapheDB">
+  <DataContextMoniker Name="/CapheDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="81ea1fd6-1687-44ff-9e46-8c2c2350613a" absoluteBounds="2, 2, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CapheDBDataContext/Caphe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2eb0c52a-5dc3-463e-884c-f19d0f5b4dbc" absoluteBounds="2.015, 2.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
